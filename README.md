@@ -1,29 +1,18 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=300&section=header&text=Asi%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=300&section=header&text=Asi%27s%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
 
-<br><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=15&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=I%20am%20a%20lifelong%20student&rotate=0&fontSize=30&fontAlign=24.5&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=22&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=ff0000&height=500&rotate=0)
 
-<br><br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23FF0000&title_bg=%23FF0000&icon=riotgames.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=false" />
-  </a>
-  <a href="https://instagram.com/hanui_asi">
-      <img 
-          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hanui_asi/"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a href="mailto:l.lise413@gmail.com">
-      <img 
-          src="https://img.shields.io/badge/l.lise413@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.lise413@gmail.com"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=425" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=ff0000&icon_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=425&line_height=40" />
 </p>
 
-<br><br><br><br>
+
+<br><br><br>
 
 
 <!--Skill----------------------------------------------------------------------------------------------->
@@ -57,7 +46,7 @@
 </p>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 <!--Leaning----------------------------------------------------------------------------------------------->
@@ -103,7 +92,7 @@
 </p>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 <!--Using----------------------------------------------------------------------------------------------->
@@ -121,20 +110,22 @@
 </p>
 
 
-<br><br><br><br>
-
-
-<!--Stats----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Stats&rotate=0&fontSize=30&fontAlign=6.5&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=425" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=ff0000&icon_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=425&line_height=40" />
-</p>
-
-
-<br><br><br><br>
+<br><br><br>
 
 
 <!--Footer----------------------------------------------------------------------------------------------->
-![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=ff0000&height=200&rotate=0)
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23FF0000&title_bg=%23FF0000&icon=riotgames.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=false" />
+  </a>
+  <a href="https://instagram.com/hanui_asi">
+      <img 
+          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hanui_asi/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="mailto:l.lise413@gmail.com">
+      <img 
+          src="https://img.shields.io/badge/l.lise413@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.lise413@gmail.com"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</p>
