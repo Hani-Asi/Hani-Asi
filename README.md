@@ -1,41 +1,59 @@
 <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=300&section=header&text=Asi%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=300&section=header&text=Asi%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
 
 <br><br><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=22&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
 
+<br><br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23FF0000&title_bg=%23FF0000&icon=riotgames.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=false" />
+  </a>
+  <a href="https://instagram.com/hanui_asi">
+      <img 
+          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hanui_asi/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="mailto:l.lise413@gmail.com">
+      <img 
+          src="https://img.shields.io/badge/l.lise413@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.lise413@gmail.com"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</p>
 
 <br><br><br><br>
 
 
 <!--Skill----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=50&section=header&text=Skills&rotate=0&fontSize=30&fontAlign=7&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Skills&rotate=0&fontSize=30&fontAlign=6.5&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <!--TypeScipt-->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <!--JavaScript-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
   <!--HTML5-->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <!--React-->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <!--Next.js-->
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <!--CSS3-->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <!--Redux-->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <!--Webpack-->
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-  <!--Babel-->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+  <!--React-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <!--Next.js-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
   <!--Node.js-->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" **alt="Node.js" width="40" height="40"/>
+  <!--Redux-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
+  <!--Webpack-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+  <!--Storybook-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>
+  <!--Babel-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" title="Babel" **alt="Babel" width="40" height="40"/>
   <!--GraphQL-->
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-  <!--Strapi-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
 </p>
 
 
@@ -43,43 +61,71 @@
 
 
 <!--Leaning----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=50&section=header&text=Leaning&rotate=0&fontSize=30&fontAlign=7&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Leaning&rotate=0&fontSize=30&fontAlign=9&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <!--TypeScipt-->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <!--JavaScript-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
   <!--HTML5-->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <!--React-->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <!--Next.js-->
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <!--CSS3-->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <!--Redux-->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <!--Webpack-->
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-  <!--Babel-->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+  <!--React-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <!--Next.js-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
   <!--Node.js-->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" **alt="Node.js" width="40" height="40"/>
+  <!--Redux-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
+  <!--Webpack-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+  <!--Storybook-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>
+  <!--Babel-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" title="Babel" **alt="Babel" width="40" height="40"/>
   <!--GraphQL-->
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
   <!--Python-->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <!--Java-->
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
+  <!--Illustrator-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
+  <!--PhotoShop-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PhotoShop" **alt="PhotoShop" width="40" height="40"/>
+  <!--PremierePro-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="PremierePro" **alt="PremierePro" width="40" height="40"/>
+  <!--AfterEffects-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="AfterEffects" **alt="AfterEffects" width="40" height="40"/>
 </p>
 
 
 <br><br><br><br>
 
 
-<!--Use Languages----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=50&section=header&text=Use%20Languages&rotate=0&fontSize=30&fontAlign=15&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<!--Using----------------------------------------------------------------------------------------------->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Using&rotate=0&fontSize=30&fontAlign=7&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+
+<p align="left">
+  <!--VSCode-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <!--Node.js-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" **alt="Node.js" width="40" height="40"/>
+  <!--yarn-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" **alt="yarn" width="40" height="40"/>
+  <!--npm-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+</p>
+
+
+<br><br><br><br>
+
+
+<!--Stats----------------------------------------------------------------------------------------------->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Stats&rotate=0&fontSize=30&fontAlign=6.5&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=425" />
@@ -91,15 +137,4 @@
 
 
 <!--Footer----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=Thanks%20for%20visiting%20my%20hub&rotate=0&fontSize=30&fontAlign=22&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
-
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23FF0000&title_bg=%23FF0000&icon=riotgames.svg&icon_color=%23FFFFFF&title=Hanui-Asi&edge_flat=false" />
-</a>
-<a href="https://www.instagram.com/hanui_asi/">
-    <img 
-        src="http://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/hanui_asi/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.lise413@gmail.com)](mailto:l.lise413@gmail.com)
+![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=ff0000&height=200&rotate=0)
