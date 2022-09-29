@@ -7,8 +7,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=ff0000&height=500&rotate=0)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=425" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=ff0000&icon_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=425&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=ff0000&icon_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=420&line_height=40" />
 </p>
 
 
