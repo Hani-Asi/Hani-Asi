@@ -1,14 +1,14 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=300&section=header&text=Asi%27s%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=a3cca2&height=300&section=header&text=Asi%27s%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=15&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=I%20am%20a%20lifelong%20student&rotate=0&fontSize=30&fontAlign=24.5&fontAlignY=50&fontColor=ff0000&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=15&fontAlignY=50&fontColor=a3cca2&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=I%20am%20a%20lifelong%20student&rotate=0&fontSize=30&fontAlign=24.5&fontAlignY=50&fontColor=a3cca2&animation=fadeIn" />
 
-![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=ff0000&height=500&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=slice&section=footer&color=a3cca2&height=500&rotate=0)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=ff0000&icon_color=ff0000&text_color=909090&border_color=ff0000&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=420&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanui-Asi&title_color=a3cca2&text_color=909090&border_color=a3cca2&border_radius=null&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanui-Asi&show_icons=true&include_all_commits&title_color=a3cca2&icon_color=a3cca2&text_color=909090&border_color=a3cca2&border_radius=null&custom_title=Asi%20GitHub%20Stats&card_width=420&line_height=40" />
 </p>
 
 
@@ -16,7 +16,7 @@
 
 
 <!--Languages----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Languages&rotate=0&fontSize=30&fontAlign=6.5&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a3cca2&height=40&section=header&text=Languages&rotate=0&fontSize=30&fontAlign=10&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <!--TypeScipt-->
@@ -38,7 +38,7 @@
 
 
 <!--Frameworks / Libraries----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Frameworks%2FLibraries&rotate=0&fontSize=30&fontAlign=9&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a3cca2&height=40&section=header&text=Frameworks%2FLibraries&rotate=0&fontSize=30&fontAlign=19.1&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <!--React-->
@@ -64,7 +64,7 @@
 
 
 <!--Tools----------------------------------------------------------------------------------------------->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=40&section=header&text=Tools&rotate=0&fontSize=30&fontAlign=7&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a3cca2&height=40&section=header&text=Tools&rotate=0&fontSize=30&fontAlign=5.8&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
   <!--VSCode-->
@@ -100,7 +100,7 @@
 <!--Footer----------------------------------------------------------------------------------------------->
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23FF0000&title_bg=%23FF0000&icon=riotgames.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=false" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanui-Asi&count_bg=%23a3cca2&title_bg=%23a3cca2&icon=riotgames.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=false" />
   </a>
   <a href="https://instagram.com/hanui_asi">
       <img 
