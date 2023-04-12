@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=a3cca2&height=300&section=header&text=Yeou%27s%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=a3cca2&height=300&section=header&text=Hani%27s%20Hub&rotate=20&fontSize=70&fontAlign=75&fontAlignY=15&fontColor=ffffff&animation=blink)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=Hello%20there&rotate=0&fontSize=30&fontAlign=15&fontAlignY=50&fontColor=a3cca2&animation=fadeIn" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=30&section=header&text=I%20am%20a%20lifelong%20student&rotate=0&fontSize=30&fontAlign=24.5&fontAlignY=50&fontColor=a3cca2&animation=fadeIn" />
